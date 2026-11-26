@@ -1,0 +1,10 @@
+{
+  "task": "aggression",
+  "init": "scratch",
+  "seed": 42,
+  "dropout": 0.3,
+  "lr": 0.0002,
+  "weight_decay": 0.05,
+  "best_val_macro_f1": 0.5167187970876227,
+  "best_epoch": 4
+}

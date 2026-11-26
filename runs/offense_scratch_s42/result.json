@@ -1,0 +1,10 @@
+{
+  "task": "offense",
+  "init": "scratch",
+  "seed": 42,
+  "dropout": 0.3,
+  "lr": 0.0002,
+  "weight_decay": 0.05,
+  "best_val_macro_f1": 0.7103328885202149,
+  "best_epoch": 4
+}

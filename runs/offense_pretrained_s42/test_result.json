@@ -1,0 +1,10 @@
+{
+  "run": "offense_pretrained_s42",
+  "task": "offense",
+  "test_accuracy": 0.7683956574185766,
+  "test_macro_f1": 0.7021333932180552,
+  "per_class_f1": {
+    "NOT": 0.8426229508196721,
+    "OFF": 0.5616438356164384
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "run": "aggression_pretrained_s42",
+  "task": "aggression",
+  "test_accuracy": 0.5379975874547648,
+  "test_macro_f1": 0.5164340069341303,
+  "per_class_f1": {
+    "NAG": 0.6751054852320675,
+    "CAG": 0.4216417910447761,
+    "OAG": 0.45255474452554745
+  }
+}
